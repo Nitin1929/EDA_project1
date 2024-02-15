@@ -1,4 +1,4 @@
-Summary
+***Summary***
 * In this project we began to explore the dataset in which Hotel Booking comprises of two types of hotels i.e City Hotel and Resort Hotel.
 
 *   In this dataset, there are 119390 rows and 32 columns.
@@ -31,8 +31,9 @@ Summary
 
 *   So, i explored and analyzed the data to discover important factors that govern the bookings.
 
-  Solution to Business Objective
-  **Business objective attained as follows:**
+  ***Solution to Business Objective***
+  
+Business objective attained as follows:
 
 
 1. To attain high growth and more success, hotel business need to flourish and for that few things which we need to consider is high revenue generation, customers satisfaction and employeee retention.
